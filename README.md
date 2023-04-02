@@ -1,2 +1,5 @@
-# Case-Study-2---Pizza-Runner
-Week 2 of #8weeksqlchallenge. Using this challenge to sharpen my skills in SQL
+# Pizza-Runner
+![image](https://user-images.githubusercontent.com/108492188/229355288-b1d30175-28a8-4efb-9802-4356392e5ec1.png)
+
+_Link to the 8weeksqlchallenge organized by Danny Ma_ [Click here to view all challenge](https://8weeksqlchallenge.com/case-study-2/)
+----
