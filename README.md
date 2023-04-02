@@ -22,3 +22,5 @@ Danny has prepared for us an entity relationship diagram of his database design 
 # Entity Relationship Diagram 
 
 ![image](EDR.JPG)
+
+Click on the [Link](https://dbdiagram.io/d/5f3e085ccf48a141ff558487/?utm_source=dbdiagram_embed&utm_medium=bottom_open) to navigate to the site when the data model was generated. Click [here](https://github.com/Aosanusi30/Case-Study-2---Pizza-Runner/commit/93822accac78ecff03b8fdcffe179678dfe01c1d) from SQL code 
